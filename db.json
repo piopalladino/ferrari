@@ -1,11 +1,11 @@
-{
+Ricetta{
   "ricetterosler": [
-    { "stato": "OK", "barcode": "1111", "messaggio": "", "numeroOrdine": "OR-ID-001", "codiceDisegno": "111", "numeroSequenza": 210, "risorsa": "BB97" },
-    { "stato": "OK", "barcode": "2222", "messaggio": "", "numeroOrdine": "OR-ID-002", "codiceDisegno": "222", "numeroSequenza": 210, "risorsa": "U00" },
-    { "stato": "OK", "barcode": "3333", "messaggio": "", "numeroOrdine": "OR-ID-003", "codiceDisegno": "333", "numeroSequenza": 210, "risorsa": "R88" },
-    { "stato": "OK", "barcode": "4444", "messaggio": "", "numeroOrdine": "OR-ID-004", "codiceDisegno": "444", "numeroSequenza": 210, "risorsa": "R89" },
-    { "stato": "OK", "barcode": "5555", "messaggio": "", "numeroOrdine": "OR-ID-005", "codiceDisegno": "555", "numeroSequenza": 210, "risorsa": "BB98" },
-    { "stato": "OK", "barcode": "6666", "messaggio": "", "numeroOrdine": "OR-ID-006", "codiceDisegno": "666", "numeroSequenza": 210, "risorsa": "CC27" }
+    { "stato": "OK", "barcode": "1111", "messaggio": "", "numeroOrdine": "OR-ID-001", "codiceDisegno": "111", "numeroSequenza": 210, "numeroRicetta": 10, "risorsa": "BB97", "quantitaReale": 10, "progressivi": "1; 2; 3" },
+    { "stato": "OK", "barcode": "2222", "messaggio": "", "numeroOrdine": "OR-ID-002", "codiceDisegno": "222", "numeroSequenza": 210, "numeroRicetta": 20, "risorsa": "U00", "quantitaReale": 20, "progressivi": "4; 5; 6" },
+    { "stato": "OK", "barcode": "3333", "messaggio": "", "numeroOrdine": "OR-ID-003", "codiceDisegno": "333", "numeroSequenza": 210, "numeroRicetta": 30, "risorsa": "R88", "quantitaReale": 30, "progressivi": "7; 8; 9" },
+    { "stato": "OK", "barcode": "4444", "messaggio": "", "numeroOrdine": "OR-ID-004", "codiceDisegno": "444", "numeroSequenza": 210, "numeroRicetta": 40, "risorsa": "R89", "quantitaReale": 40, "progressivi": "10; 11; 12" },
+    { "stato": "OK", "barcode": "5555", "messaggio": "", "numeroOrdine": "OR-ID-005", "codiceDisegno": "555", "numeroSequenza": 210, "numeroRicetta": 50, "risorsa": "BB98", "quantitaReale": 50, "progressivi": "13; 14; 15" },
+    { "stato": "OK", "barcode": "6666", "messaggio": "", "numeroOrdine": "OR-ID-006", "codiceDisegno": "666", "numeroSequenza": 210, "numeroRicetta": 60, "risorsa": "CC27", "quantitaReale": 60, "progressivi": "16; 17; 18" }
   ],
   "profile": {
     "name": "typicode"
