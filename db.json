@@ -1,4 +1,4 @@
-Ricetta{
+{
   "ricetterosler": [
     { "stato": "OK", "barcode": "1111", "messaggio": "", "numeroOrdine": "OR-ID-001", "codiceDisegno": "111", "numeroSequenza": 210, "numeroRicetta": 10, "risorsa": "BB97", "quantitaReale": 10, "progressivi": "1; 2; 3" },
     { "stato": "OK", "barcode": "2222", "messaggio": "", "numeroOrdine": "OR-ID-002", "codiceDisegno": "222", "numeroSequenza": 210, "numeroRicetta": 20, "risorsa": "U00", "quantitaReale": 20, "progressivi": "4; 5; 6" },
