@@ -1,12 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "ricetterosler": [
+    { "stato": "OK", "barcode": "1111", "messaggio": "", "numeroOrdine": "OR-ID-001", "codiceDisegno": "111", "numeroSequenza": 210, "risorsa": "BB97" },
+    { "stato": "OK", "barcode": "2222", "messaggio": "", "numeroOrdine": "OR-ID-002", "codiceDisegno": "222", "numeroSequenza": 210, "risorsa": "U00" },
+    { "stato": "OK", "barcode": "3333", "messaggio": "", "numeroOrdine": "OR-ID-003", "codiceDisegno": "333", "numeroSequenza": 210, "risorsa": "R88" },
+    { "stato": "OK", "barcode": "4444", "messaggio": "", "numeroOrdine": "OR-ID-004", "codiceDisegno": "444", "numeroSequenza": 210, "risorsa": "R89" },
+    { "stato": "OK", "barcode": "5555", "messaggio": "", "numeroOrdine": "OR-ID-005", "codiceDisegno": "555", "numeroSequenza": 210, "risorsa": "BB98" },
+    { "stato": "OK", "barcode": "6666", "messaggio": "", "numeroOrdine": "OR-ID-006", "codiceDisegno": "666", "numeroSequenza": 210, "risorsa": "CC27" }
   ],
   "profile": {
     "name": "typicode"
